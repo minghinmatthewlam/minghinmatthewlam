@@ -19,6 +19,7 @@ currently at **[@azuki](https://github.com/azuki)** · previously **ava labs** a
 | [agentpane](https://github.com/minghinmatthewlam/agentpane) | ai agent orchestration tool |
 | [acme-tempo](https://github.com/minghinmatthewlam/acme-tempo) | tempo l1 app — passkey auth, tip-20 flows |
 | [pluto](https://app.tradepluto.com) | 0→1 trading platform on hyperliquid |
+| [doodleguess](https://github.com/minghinmatthewlam/doodleguess) | draw for your partner; their drawing appears on your home screen widget |
 
 #### open source contributions @ ava labs
 
