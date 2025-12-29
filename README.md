@@ -17,6 +17,7 @@ currently at **[@azuki](https://github.com/azuki)** · previously **ava labs** a
 | project | description |
 |---------|-------------|
 | [10x](https://github.com/minghinmatthewlam/10x) | ios app for focused daily goals — swiftui, swiftdata, widgetkit |
+| [deals-bot](https://github.com/minghinmatthewlam/deals-bot) | ai-powered deal aggregator — gmail/web ingestion, llm extraction, daily digests |
 | [agentpane](https://github.com/minghinmatthewlam/agentpane) | ai agent orchestration tool |
 | [acme-tempo](https://github.com/minghinmatthewlam/acme-tempo) | tempo l1 app — passkey auth, tip-20 flows |
 | [pluto](https://app.tradepluto.com) | 0→1 trading platform on hyperliquid |
