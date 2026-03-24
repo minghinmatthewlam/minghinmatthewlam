@@ -14,7 +14,7 @@ product-minded engineer building ai agents and developer tools
 
 | project | description |
 |---------|-------------|
-| [pi-app](https://pi-gui.app) | desktop shell for the pi coding agent — electron, react, session management |
+| [pi-app](https://pi-gui.com) | desktop shell for the pi coding agent — electron, react, session management |
 | [openci](https://openci.app) | package manager for ai agent workflows — install, manage, and maintain ci workflows from any repo |
 | [agent-guards](https://github.com/minghinmatthewlam/agent-guards) | multi-agent orchestration framework — shared guardrails, skills, and workflows for ai coding agents |
 | pi-log · [@pichangelog](https://x.com/pichangelog) · [@codexchangelog_](https://x.com/codexchangelog_) | ai-powered changelog bots — watches github releases, drafts threads with claude, publishes to x |
