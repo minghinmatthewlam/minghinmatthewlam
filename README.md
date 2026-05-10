@@ -17,7 +17,7 @@ product-minded engineer building ai agents and developer tools
 | [pi-gui](https://pi-gui.com) | desktop shell for the pi coding agent — electron, react, session management |
 | [openci](https://openci.app) | package manager for ai agent workflows — install, manage, and maintain ci workflows from any repo |
 | [agent-guards](https://github.com/minghinmatthewlam/agent-guards) | multi-agent orchestration framework — shared guardrails, skills, and workflows for ai coding agents |
-| pi-log · [@pichangelog](https://x.com/pichangelog) · [@codexchangelog_](https://x.com/codexchangelog_) | ai-powered changelog bots — watches github releases, drafts threads with claude, publishes to x |
+| ai changelog bots · [@pichangelog](https://x.com/pichangelog) · [@codexreleases](https://x.com/codexreleases) | ai-powered changelog bots — watches github releases, drafts threads with claude, publishes to x |
 | [deals-bot](https://github.com/minghinmatthewlam/deals-bot) | ai-powered deal aggregator — gmail/web ingestion, llm extraction, daily digests |
 | [pluto](https://app.tradepluto.com) | 0→1 trading platform on hyperliquid — perps, spot, cross-chain deposits |
 | [10x](https://github.com/minghinmatthewlam/10x) | ios app for focused daily goals — swiftui, swiftdata, widgetkit |
